@@ -1,6 +1,7 @@
 # 광주광역시 놀이터맵
 
-[광주광역시 놀이터맵 바로가기 - https://gj.noritermap.com](https://gj.noritermap.com/)
+~~[광주광역시 놀이터맵 바로가기 - https://gj.noritermap.com](https://gj.noritermap.com/)~~
+서비스 종료
 
 ---
 ## 🔎 Introduction
